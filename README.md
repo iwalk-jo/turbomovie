@@ -1,6 +1,10 @@
-# turbomovie_app
+# Turbo Movie App
 
-A new Flutter project.
+A simple UX/UI Design Application Built Using Flutter.
+
+API Json Data from YTS.mx
+
+Model data generated using quicktype.io
 
 ## Getting Started
 
